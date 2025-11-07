@@ -54,6 +54,5 @@ The project includes multiple stages of data analysis and machine learning workf
 
 ---
 
-## 📂 Repository Structure
 
 
